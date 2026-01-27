@@ -1,8 +1,12 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
 *.so
+
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -19,6 +23,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Virtual environments
 .venv/
 venv/
 ENV/
@@ -35,27 +41,49 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 
-# Environment files
+# Environment variables
 .env
+.env.local
 .env*.local
+.env.*.local
 
-# IDE
+# IDE / Editor
 .idea/
 .vscode/
 *.swp
 *.swo
-.DS_Store
+*~
+.project
+.pydevproject
+.settings/
 
-# Testing
-.coverage
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest / Testing
 .pytest_cache/
+.coverage
 htmlcov/
 .tox/
 .nox/
 
-# Misc
+# mypy
+.mypy_cache/
+
+# Logs
 *.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data / secrets
 *.pem
+*.key
+secrets/
+
+# Misc
 .vercel
 .chainlit/
 uv.lock
