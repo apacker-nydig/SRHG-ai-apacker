@@ -8,7 +8,7 @@ Welcome to the Stone Ridge Agent Engineering course!
 **You can access everything you need to succeed in the course directly through this GitHub repo** Specifically, through [`00_Quicklinks`](00_AE_Quicklinks/README.md).
 
 # 🛣️ Getting Started
-To prepare for kicking off our training on Tuesday, January 27th at 5 PM ET [here](https://us02web.zoom.us/j/81918551132), be sure that you have the following things completed:
+To prepare for kicking off our training on Tuesday, January 27th at 5 PM ET [here](https://stoneridgeam.zoom.us/j/88996041038?pwd=5kqaGAUqkkAnCtqrwc11cPxSioCNcZ.1) (passcode: `133735`), be sure that you have the following things completed:
 
 1. 🧑‍💻 Complete [The AI Engineer Challenge](https://aimakerspace.io/aie-challenge)
 2. 🌡️ Fill out your [starting self-assessment](https://forms.gle/PmVj3GCDf9UqWCoCA)!
