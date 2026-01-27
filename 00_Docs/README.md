@@ -12,7 +12,7 @@ Although we will sequence material slightly differently than we have shown below
 
 #### "Classic" Agentic RAG
 - [✨ Vibe Checking](./Modules/01_Intro_and_Vibe_Check.md)
-- 🗃️ Dense Vector Retrieval
+- [🗃️ Dense Vector Retrieval](./Modules/02_Dense_Vector_Retrieval.md)
 - 🔁 The Agent Loop
 - 🕴️ Agentic RAG
 
