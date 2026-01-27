@@ -58,7 +58,7 @@ cd yourrepo
 First, run this command (but make sure to replace the XX with your cohort number):
 
 ```markdown
-git remote add upstream git@github.com:AI-Maker-Space/AIE.git
+git remote add upstream git@github.com:AI-Maker-Space/Agent_Engineering_SRHG.git
 ```
 
 Verify both remotes are connected. *You should see both "origin" (your repo) and "upstream" (class repo)*.
@@ -70,10 +70,10 @@ git remote -v
 You should see an output very similar to this (your origin will be a different address)
 
 ```
-origin  git@github.com:chris-alexiuk/AIE.git (fetch)
-origin  git@github.com:chris-alexiuk/AIE.git (push)
-upstream        git@github.com:AI-Maker-Space/AIE.git (fetch)
-upstream        git@github.com:AI-Maker-Space/AIE.git (push)
+origin  git@github.com:chris-alexiuk/Agent_Engineering_SRHG.git (fetch)
+origin  git@github.com:chris-alexiuk/Agent_Engineering_SRHG.git (push)
+upstream        git@github.com:AI-Maker-Space/Agent_Engineering_SRHG.git (fetch)
+upstream        git@github.com:AI-Maker-Space/Agent_Engineering_SRHG.git (push)
 
 ```
 
