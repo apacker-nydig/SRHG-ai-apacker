@@ -10,10 +10,11 @@ Welcome to the Stone Ridge Agent Engineering course!
 # 🛣️ Getting Started
 To prepare for kicking off our training on Tuesday, January 27th at 5 PM ET [here](https://stoneridgeam.zoom.us/j/88996041038?pwd=5kqaGAUqkkAnCtqrwc11cPxSioCNcZ.1) (passcode: `133735`), be sure that you have the following things completed:
 
-1. 🧑‍💻 Complete [The AI Engineer Challenge](https://aimakerspace.io/aie-challenge)
-2. 🌡️ Fill out your [starting self-assessment](https://forms.gle/PmVj3GCDf9UqWCoCA)!
-3. 🛹 Schedule your [Onboarding Call](https://calendly.com/aim-dr-greg/srhg-agent-engineering-training-with-ai-makerspace) with Dr. Greg!
-4. 🤓 Prepare to hit the ground running in Week 1 by reading the information available now [`00_Docs`](00_Docs)
+1. 📅 Follow the [course calendar](https://bit.ly/SRHG_AE_Training) for office hours and class links!
+2. 🧑‍💻 Complete [The AI Engineer Challenge](https://aimakerspace.io/aie-challenge)
+3. 🌡️ Fill out your [starting self-assessment](https://forms.gle/PmVj3GCDf9UqWCoCA)!
+4. 🛹 Schedule your [Onboarding Call](https://calendly.com/aim-dr-greg/srhg-agent-engineering-training-with-ai-makerspace) with Dr. Greg!
+5. 🤓 Prepare to hit the ground running in Week 1 by reading the information available now [`00_Docs`](00_Docs)
 
 # 📅 Structure & Format
 
