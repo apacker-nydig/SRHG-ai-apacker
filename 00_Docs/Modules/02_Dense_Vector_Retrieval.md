@@ -23,6 +23,18 @@ The same setup we saw in module 1 is required here. You will need your dev envir
 3. The OG RAG Paper is called [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401). It's kind of the week of class for this one.
 4. The original Context Engineering resource, [12-Factor Agents](https://github.com/humanlayer/12-factor-agents/tree/main) by Dex Horthy (June 2025).
 
+## 📸 Recommended Concepts & Code Deep Dive Lecture
+
+<p align="center">
+  <a href="https://youtu.be/Qv48jeFSGVk">
+    <img
+      src="https://img.youtube.com/vi/Qv48jeFSGVk/maxresdefault.jpg"
+      alt="Watch the video on YouTube"
+      width="80%"
+    />
+  </a>
+</p>
+
 # 🗺️ Overview
 
 In module 2, we dig deeper into prototyping LLM applications with Retrieval Augmented Generation, or RAG. From module 1, we understand that we can write simple prompts and provide them to an LLM API. We can evaluate the output responses on behalf of our users with vibe checks. From The AIE Challenge, we know that we can wrap the functionality we iterate towards through prompting and vibe checking with a frontend and a deployed backend so that other people can use our app. Now, we'll see what happens when we  start adding the most appropriate context we can find. We should ask "what does the LLM need to know - that it doesn't already know - to give great outputs to users?" By augmenting our prompts with reference materials retrieved before generation, we do **RAG**.
