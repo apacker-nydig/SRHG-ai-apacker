@@ -116,10 +116,10 @@ Specifically, we will leverage the following tooling in the curriculum and assig
 
 - [Dr. Greg Loughnane, Ph.D](https://www.linkedin.com/in/gregloughnane/), CEO & Co-Founder @ AI Makerspace
 - [Chris Alexiuk](https://www.linkedin.com/in/csalexiuk/), CTO & Co-Founder @ AI Makerspace
-- [Laura Funderburk](https://www.linkedin.com/in/laurafunderburk/), Developer Relations Lead @ AI Makerspace
 - [Jacob Kilpatrick](https://www.linkedin.com/in/jacobkilpatrickai/), Course Operations Lead @ AI Makerspace
 - [Dr. Katerina Gawthorpe, Ph.D.](https://www.linkedin.com/in/katerina-gawthorpe/), Co-Founder @ [eve.ai](http://eve.ai), AI Makerspace-Certified Consultant
 - [Betsy Gold](https://www.linkedin.com/in/betsybgold/), Co-Founder @ [eve.ai](http://eve.ai), AI Makerspace-Certified Consultant
+- [Mani Sarkar](https://www.linkedin.com/in/mani-sarkar/), 4X Kaggle Expert, Polyglot Engineer
 
 # **🏆 Grading**
 
