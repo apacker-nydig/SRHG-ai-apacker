@@ -11,7 +11,7 @@
 
 | 📰 Module Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Vibe Check!](../00_Docs/Modules/01_Intro_and_Vibe_Check.md) | Coming Soon! | Coming Soon! | You are here! | Coming Soon! | Coming Soon! |
+|[✨ Intro & Vibe Check](../00_Docs/Modules/01_Intro_and_Vibe_Check.md) | Coming soon! | [Session 1 Slides](https://www.canva.com/design/DAG_pEBegaA/l-UEN3U_Kt6e7iaHn6YBTQ/edit?utm_content=DAG_pEBegaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 1 Assignment: Vibe Check](https://forms.gle/LGYqGJT9eS5tWkyN7) | [Feedback 1/27](https://forms.gle/wPQKAwXHaqo2V5aW6) |
 
 ## 🏗️ How AIM Does Assignments
 
