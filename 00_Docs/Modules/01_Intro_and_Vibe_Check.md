@@ -92,7 +92,7 @@ From the outset, it’s important to address the elephant in the AI Engineering 
 Originally coined by [Dexter Horthy](https://x.com/dexhorthy/status/1940895400065749412) during his talk on June 3, 2025 at The AI Engineer Summit, the term has taken on a life of its own. Everything is, indeed, context, as our [recommended 2020 paper](https://arxiv.org/abs/2005.14165) taught us.
 
 <p align="center">
-  <img src="./images/Context_Engineering.jp" width="80%" />
+  <img src="./images/Context_Engineering.jpeg" width="80%" />
 </p>
 
 In the [Decade of Agents](https://www.latent.space/p/s3?open=false#%C2%A7closing-recap) (2025-??) ahead, as we're already seeing, to score highly on the latest benchmarks out there today - benchies like [Deep Research Bench](https://huggingface.co/spaces/Ayanami0730/DeepResearch-Leaderboard) - it’s not just the model that we’re putting up to the test, but rather the agent’s ability to produce a final answer - one that often requires managing context along the way - context beyond the simple input-output schema of an LLM on it’s own.
