@@ -1,8 +1,12 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
 *.so
+
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -17,25 +21,15 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
 *.egg
+
+# Virtual environments
 .venv/
 venv/
 ENV/
 env/
 
-# Node.js
-node_modules/
-.next/
-out/
-.pnp
-.pnp.js
-
-# Build outputs
-*.tsbuildinfo
-next-env.d.ts
-
-# Environment files
+# Environment variables
 .env
 .env.local
 .env*.local
@@ -54,12 +48,10 @@ next-env.d.ts
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Testing
+# pytest
 .pytest_cache/
 .coverage
 htmlcov/
-.tox/
-.nox/
 
 # mypy
 .mypy_cache/
@@ -72,12 +64,32 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Secrets / Keys
+# Local data / secrets
 *.pem
 *.key
 secrets/
 
+# ============================================
+# Project-specific additions (keep below this line)
+# ============================================
+
+# Node.js
+node_modules/
+.next/
+out/
+.pnp
+.pnp.js
+
+# Build outputs
+*.tsbuildinfo
+next-env.d.ts
+
+# Testing (additional)
+.tox/
+.nox/
+
 # Misc
+.installed.cfg
 .vercel
 .chainlit/
 uv.lock
