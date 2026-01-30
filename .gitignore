@@ -1,12 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -23,8 +19,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
-# Virtual environments
 .venv/
 venv/
 ENV/
@@ -41,7 +35,7 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 
-# Environment variables
+# Environment files
 .env
 .env.local
 .env*.local
@@ -60,7 +54,7 @@ next-env.d.ts
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# pytest / Testing
+# Testing
 .pytest_cache/
 .coverage
 htmlcov/
@@ -78,7 +72,7 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Local data / secrets
+# Secrets / Keys
 *.pem
 *.key
 secrets/
