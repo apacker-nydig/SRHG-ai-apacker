@@ -11,7 +11,7 @@
 
 | 📰 Module Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-|[🗃️ Dense Vector Retrieval](../00_Docs/02_Dense_Vector_Retrieval.md) | Coming soon! | [Session 1 Slides](https://www.canva.com/design/DAG_pEBegaA/l-UEN3U_Kt6e7iaHn6YBTQ/edit?utm_content=DAG_pEBegaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 2 Assignment: RAG](https://forms.gle/GSVPHWjdCXTb9SdNA) | [Feedback 1/27](https://forms.gle/wPQKAwXHaqo2V5aW6) |
+|[🗃️ Dense Vector Retrieval](../00_Docs/02_Dense_Vector_Retrieval.md) | [1/27 Recording](https://f.io/hjp3Z06Z) <br> password: `SRintel26` | [Session 1 Slides](https://www.canva.com/design/DAG_pEBegaA/l-UEN3U_Kt6e7iaHn6YBTQ/edit?utm_content=DAG_pEBegaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 2 Assignment: RAG](https://forms.gle/GSVPHWjdCXTb9SdNA) | [Feedback 1/27](https://forms.gle/wPQKAwXHaqo2V5aW6) |
 
 
 ### Outline:
