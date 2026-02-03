@@ -96,9 +96,9 @@ The idea is simple but wide-ranging:
 > 
 
 It’s worth reviewing the primary figure from the original paper in detail, as well as other use cases:
-
+openai_vs_langchain_syntax.jpg
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09aed67e-9855-4105-bc0a-756389269f2c" width="80%" />
+  <img src="react_pattern_from_paper.jpg" width="80%" />
 </p>
 
 # 🧰 Tool Calling (i.e., Function Calling)
@@ -183,7 +183,7 @@ The first chain we’ll build with LCEL combines `Model` and `Prompt` from Model
 Using LLM models that have been instruction-tuned and fine-tuned for chat is a best practice for LLM-powered applications.  Just as we learned about the {System, User, Assistant} roles in OpenAI, we can leverage chat-style models using the {System, Human, AI} roles in LangChain.  These are, for all intents and purposes, the same.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e69dd36-4320-4c84-96e5-ea23bf260ddd" width="80%" />
+  <img src="openai_vs_langchain_syntax.jpg" width="80%" />
 </p>
 
 Chat completions roles, OpenAI vs. LangChain.
