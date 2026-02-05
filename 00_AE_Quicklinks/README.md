@@ -24,8 +24,15 @@ Quicklinks are to help you **easily navigate individual lesson information** for
 
 Friendly reminders:
 1. Homeworks are due every Tuesday before we meet, and are submitted via Google Forms.
-2. The weekly calendar of sessions is shown below!
+2. The weekly calendar of sessions is shown below (times shown in ET)!
+
+Zoom links:
+- Dr. Greg Loughnane: https://us02web.zoom.us/j/87432534253
+- Weekly Class Sessions: https://stoneridgeam.zoom.us/j/89044730645?pwd=4kpl0wbdRqiZ3VZYaxeyTgCsaU1VnA.1
+- Betsy Gold: https://us02web.zoom.us/j/89244551634?pwd=9YJk34de171Hax2tr9WZt9lb7FoV3q.1
+- Dr. Katerina Gawthorpe: https://us02web.zoom.us/j/86301974563?pwd=2rRwKhQca7NubWT6VqlYUcvkQOb8nU.1
+- Chris "The Wiz" Alexiuk: https://us02web.zoom.us/j/84875506790
 
 <p align="center">
-  <img src="SRHG_Training_Calendar.png" width="50%" />
+  <img src="SRHG_Training_Calendar.png" width="100%" />
 </p>
